@@ -1,4 +1,6 @@
-Isso é um projeto maven, suas dependências:
+Repositório aplicando Spring Transaction Management
+
+Dependências Utilizadas no Maven:
 - Spring Context
 - Spring JDBC
 - PostgreSQL JDBC Driver
